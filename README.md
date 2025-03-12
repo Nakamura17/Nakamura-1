@@ -13,10 +13,13 @@ Software Engineering Day1 Assignment
 2.Identify and describe at least three key milestones in the evolution of software engineering.
 * Mastering the Machine
   Code development was strongly influenced by outside forces. The main purpose of any piece of software was to optimize exploitation of the limited hardware resources.
+  
   *Mastering the process
   The aim was to reduce risk during development and improve quality and productivity. Software development methodologies appeared to define and monitor software building. An important contribution of this stage was the formal modeling approach that enables implementation automation.
+  
   *Mastering the Complexity
   Personal computers arrived and opened the fields of computer applications. The software development process would now comprehensively address analysis and design from the specification. Graphical user interface and visual programming brought software closer to customers.
+  
   *Mastering the Communication
   The emergence of the Internet brought with it a new software concept. The decentralization of functions and data led to the rapid development and expansion of areas of computing, such as concurrent programming and distributed architectures, which up to then had been limited to a narrower context.
 
@@ -24,11 +27,17 @@ Software Engineering Day1 Assignment
 3.List and briefly explain the phases of the Software Development Life Cycle.
 
 PLANNING - Define project goals, scope and feasibility of the system 
+
 ANALYSIS - Gathering user needs and translating them into functional specification. 
+
 DESIGN - Creating the software architecture and system design 
+
 DEVELOPMENT - Coding and implementating the software according to the design. 
+
 TESTING - Verifying software functions and identifying bugs
+
 DEPLOYMENT - Distributing software to intended users
+
 MAINTANANCE-Addressing issues, adding new features and updating software systems. 
 
 
@@ -48,7 +57,9 @@ Example of the house project, The Engineer will break down the project into sect
 5.Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
 *Software developer - Software developer designs, builds and maintains software programs 
+
 *Quality Assurance engineer- is responsible for ensuring that products and services meet quality standards. 
+
 *Project Manager- Role is to plan, organizer and direct a project from start to finish
 
 
@@ -65,10 +76,13 @@ Examples are Git, Apache Subversion and Mercurial
 7.What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 
 *Rapid technological advancement - Engineers should stand out by adopting continuous learning practices and using agile methodologies to adopt to trends, keeping their skills sharp in an evolving industry. 
+
 *Time constraints - 
 Effective time management strategies are essential, teams adopt agile methodologies to streamline work flow by dividing large project into manageable sprints. 
+
 *Changing Software requirements 
 Engineers can adopt approaches like agile development which emphasizes iterative progress and adaptability and modular design
+
 *Software security 
 Engineers should engage in active research ways to defend against hacking, malware, phising insider and third-party threats 
 
